@@ -1,0 +1,7 @@
+helo localhost
+mail from : root@localhost
+rcpt to : root@localhost
+data
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+.
+quit
